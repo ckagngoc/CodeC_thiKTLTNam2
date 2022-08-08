@@ -1,0 +1,13 @@
+4
+Giai tich 1
+Luong Duyen Binh
+16000
+Giai Tich 2
+Luong Duyen Binh
+70000
+Vat Ly Dai Cuong 1
+Nguyen Xuan Thau
+40000
+Vat Ly Dai Cuong 2
+Pham Duc Minh
+20000
